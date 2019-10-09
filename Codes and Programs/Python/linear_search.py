@@ -3,7 +3,7 @@ def linear_search(lst,key):
     for i in lst:
         if i == key:
             print("Found at position {}".format(lst.index(i)+1))
-            flag = flag+1
+            flag+ = 1
     if flag == 0:
         print("Not Found")
 

@@ -38,6 +38,7 @@ Example: <b>\- Swapnil Tiwari, Web Developer, Programming Languages - (C, C++, P
 -  Saumya Agnihotri, Full Stack Developer, Programming Languages - (C++, Python)
 -  Anuj Attri, Student, Programming Languages - (C++,Python)
 -  Upasana Dek, Web Developer, Programming Languages - (C, C++, Python)
+-  Vivek Chauhan, UG student, Programming languages - (C,C++)
 > (Add your name, profession and programming languages right above this markdown comment)
 
 

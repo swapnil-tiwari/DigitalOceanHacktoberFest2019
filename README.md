@@ -37,7 +37,7 @@ Example: <b>\- Swapnil Tiwari, Web Developer, Programming Languages - (C, C++, P
 -  Shivam Shukla, Android Developer, Programming Languages - (C, C++, Java)
 -  Saumya Agnihotri, Full Stack Developer, Programming Languages - (C++, Python)
 -  Anuj Attri, Student, Programming Languages - (C++,Python)
--  Upasana Dek, Web Developer, Programming Languages - (C, C++, Python)
+-  Upasana Deka, Web Developer, Programming Languages - (C, C++, Python)
 -  Vivek Chauhan, UG student Programming languages - (C,C++)
 -  Surya Madhavan, UG Student, Programming Languages- (C,C++,Python)
 -  Patrick, Student, Programming Languages - (Java, Python)

@@ -45,8 +45,7 @@ Example: <b>\- Swapnil Tiwari, Web Developer, Programming Languages - (C, C++, P
 -  Osiris, 12th, Programming Language - (HTML, CSS)
 -  Anabel, Student, Programing Language - (Python)
 -  Immessionate, Student, Programing Language - (JavaScript)
-> (Add your name, profession and programming languages right above this markdown comment)
-
+> (vishal, webdeveloper,Programming Language - (HTML, CSS,js)
 
 # Happy October | Happy Hacking :sunglasses:
 

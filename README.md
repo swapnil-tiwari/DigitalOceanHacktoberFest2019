@@ -46,6 +46,7 @@ Example: <b>\- Swapnil Tiwari, Web Developer, Programming Languages - (C, C++, P
 -  Anabel, Student, Programing Language - (Python)
 -  Immessionate, Student, Programing Language - (JavaScript)
 > (vishal, webdeveloper,Programming Language - (HTML, CSS,js)
+-  Shivansh, android developer - (Java,XML,HTML)
 
 # Happy October | Happy Hacking :sunglasses:
 

@@ -47,6 +47,7 @@ Example: <b>\- Swapnil Tiwari, Web Developer, Programming Languages - (C, C++, P
 -  Immessionate, Student, Programing Language - (JavaScript)
 > (vishal, webdeveloper,Programming Language - (HTML, CSS,js)
 -  Shivansh, android developer - (Java,XML,HTML)
+-  Prathima Kadari, Embedded Engineer, Programming Languages - (C, C++, Python)
 
 # Happy October | Happy Hacking :sunglasses:
 

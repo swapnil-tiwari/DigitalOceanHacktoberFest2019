@@ -45,9 +45,9 @@ Example: <b>\- Swapnil Tiwari, Web Developer, Programming Languages - (C, C++, P
 -  Osiris, 12th, Programming Language - (HTML, CSS)
 -  Anabel, Student, Programing Language - (Python)
 -  Immessionate, Student, Programing Language - (JavaScript)
-> (vishal, webdeveloper,Programming Language - (HTML, CSS,js)
+-  vishal, webdeveloper,Programming Language - (HTML, CSS,js)
 -  Shivansh, android developer - (Java,XML,HTML)
-
+-  Harsh Bopaliya, data scientist -(c,c++,python)
 # Happy October | Happy Hacking :sunglasses:
 
 (Reference - https://github.com/rowhitswami/hacktoberfest19-first-timer)
